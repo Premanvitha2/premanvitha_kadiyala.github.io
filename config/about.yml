@@ -3,26 +3,24 @@ HEADER:
 
 PRESENTATION:
   description: |
-    I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-    My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+    Data Scientist with 4+ years of experience building production-grade AI/ML and NLP systems across financial services and retail. Specialized in predictive modeling, Generative AI, and end-to-end ML pipelines, delivering measurable business and risk impact in regulated, high-volume environments.
 
 DOING:
   enabled: true
   label: "What I'm doing"
   items:
-    - title: "Mobile Apps"
+    - title: "Machine Learning & Predictive Modeling"
       icon: "config/assets/icons/mobile.svg"
-      description: "Professional development of applications for iOS and Android."
-    - title: "Scripting"
+      description: "Designing, training, and deploying production-grade ML models for credit risk, demand forecasting, pricing optimization, and anomaly detection in high-volume and regulated environments."
+    - title: "Generative AI & NLP Systems"
       icon: "config/assets/icons/code.svg"
-      description: "Automation and task scripting using Python to enhance efficiency and productivity."
-    - title: "UI/UX Designing"
+      description: "Building LLM-powered solutions using GPT-4, BERT, LLaMA, LangChain, and RAG pipelines for document intelligence, compliance automation, and customer insights."
+    - title: "MLOps & Automation"
       icon: "config/assets/icons/compass.svg"
-      description: "Intuitive and visually appealing user interfaces and user experiences."
-    - title: "Web Development"
+      description: "Developing end-to-end ML pipelines with automated training, deployment, retraining, and drift monitoring using MLflow, CI/CD, Docker, and cloud platforms."
+    - title: "Experimentation & Decision Intelligence"
       icon: "config/assets/icons/laptop-code.svg"
-      description: "High-quality development of sites at the professional level."
+      description: "Running A/B tests, hypothesis testing, and explainability workflows (SHAP) to deliver auditable, data-driven decisions with measurable business impact."
 
 SKILLS:
   enabled: true
