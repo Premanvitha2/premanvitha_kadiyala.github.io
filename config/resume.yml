@@ -16,26 +16,13 @@ EXPERIENCE:
   enabled: true
   label: "Experience"
   items:
-    - period: "2010 — 2013"
-      position: "Web Designer"
-      description: "Worked on the design and development of websites for small to medium-sized businesses. Collaborated closely with developers to ensure responsive and user-friendly designs. Led the redesign of the company’s website, improving user engagement by 25%."
-    - period: "2013 — 2015"
-      position: "Art Director"
-      description: "Led a team of designers to create visually stunning campaigns for major clients in the advertising industry. Managed the creative direction of print and digital media, ensuring consistent branding and high-quality designs. Oversaw the production of advertisements that won industry awards."
-    - period: "2015 — Present"
-      position: "Creative Director"
-      description: "Direct and oversee the creative process for a range of projects, from concept to execution. Lead cross-functional teams to create innovative design solutions for branding, marketing, and digital experiences. Recently led the redesign of a global brand’s digital presence, increasing online sales by 40%."
+    - period: "2020 — 2023"
+      position: "AI ML Engineer"
+      description: "Built and deployed machine learning and NLP solutions to improve demand forecasting, inventory optimization, pricing strategy, and customer insights for large-scale retail clients."
+    - period: "2024 — Present"
+      position: "Data Scientist"
+      description: "Developed NLP-driven pipelines and machine learning risk models to monitor credit portfolios and automate compliance workflows."
 
-LANGUAGES:
-  enabled: true
-  display_progress_bars: true
-  display_percentage_values: true
-  label: "Languages"
-  items:
-    - language: "Inglés"
-      proficiency: "60%"
-    - language: "Francés"
-      proficiency: "40%"
 
 SKILLS:
   enabled: true
