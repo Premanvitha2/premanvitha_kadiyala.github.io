@@ -8,6 +8,6 @@ FORM:
   label: "Contact Form"
   fields:
     - name: "Sai Premanvitha Kadiyala"
-    - email: "Email address"
+    - email: "saipremanvitha.k@savemymails.com"
     - message: "Your message"
     - submit: "Send message"
