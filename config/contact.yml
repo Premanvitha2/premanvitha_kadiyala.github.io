@@ -7,7 +7,7 @@ LOCATION:
 FORM:
   label: "Contact Form"
   fields:
-    - name: "Full name"
+    - name: "Sai Premanvitha Kadiyala"
     - email: "Email address"
     - message: "Your message"
     - submit: "Send message"
