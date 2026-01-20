@@ -19,7 +19,7 @@ DOING:
       icon: "config/assets/icons/compass.svg"
       description: "Developing end-to-end ML pipelines with automated training, deployment, retraining, and drift monitoring using MLflow, CI/CD, Docker, and cloud platforms."
     - title: "Experimentation & Decision Intelligence"
-      icon: "config/assets/icons/laptop-code.svg"
+      icon: "config/assets/icons/analytics-laptop-svgrepo-com.svg"
       description: "Running A/B tests, hypothesis testing, and explainability workflows (SHAP) to deliver auditable, data-driven decisions with measurable business impact."
 
 SKILLS:
