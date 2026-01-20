@@ -5,19 +5,13 @@ EDUCATION:
   enabled: true
   label: "Education"
   items:
-    - period: "2002 — 2004"
-      institution: "High School of Art and Design"
-      description: "Graduated with honors, focusing on visual arts and design principles. Participated in multiple student exhibitions, honing skills in drawing, painting, and graphic design."
-    - period: "2005 — 2007"
-      institution: "Brooklyn Technical High School"
-      description: "Completed coursework in computer science and digital media, with a particular focus on web development and programming. Collaborated on projects involving coding and design integration."
-    - period: "2006 — 2007"
-      institution: "New York Academy of Art"
-      description: "Studied fine arts with a focus on sculpture and advanced painting techniques. Took part in workshops and intensive studio sessions, receiving feedback from industry professionals."
-    - period: "2007 — 2008"
-      institution: "University School of the Arts"
-      description: "Pursued a Bachelor of Fine Arts degree, specializing in interactive media and digital design. Graduated with a portfolio of projects blending traditional art forms with emerging technologies."
-
+    - period: "2023 — 2025"
+      institution: "University of Texas at Dallas"
+      description: "Graduated with Masters in Computer Science with specialization in Computer Science"
+    - period: "2018 — 2022"
+      institution: "Gokaraju rangaraju Institute of Engineering and Technology"
+      description: "Completed coursework in Electronics and Communication Engineering"
+    
 EXPERIENCE:
   enabled: true
   label: "Experience"
