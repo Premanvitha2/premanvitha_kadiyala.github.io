@@ -18,7 +18,7 @@ EXPERIENCE:
   items:
     - period: "2020 — 2023"
       position: "AI ML Engineer"
-      description: "Built and deployed machine learning and NLP solutions to improve demand forecasting, inventory optimization, pricing strategy, and customer insights for large-scale retail clients."
+      description: "Built and deployed machine learning and NLP solutions to improve demand forecasting, inventory optimization, pricing strategy, and customer insights for large-scale retail clients"
     - period: "2024 — Present"
       position: "Data Scientist"
       description: "Developed NLP-driven pipelines and machine learning risk models to monitor credit portfolios and automate compliance workflows."
