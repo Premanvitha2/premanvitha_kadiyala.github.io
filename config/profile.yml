@@ -7,23 +7,20 @@ HEADER:
   label: "Show Contacts"
 
 USER:
-  role: "iOS Developer"
-  name: "Sai Premanvitha Kadiyala"
+  role: "Data Scientist"
+  name: "Premanvitha K"
   username: "richardhendricks" # <-- This needs to be the same as your GitHub username
   avatar: "config/assets/avatars/my-avatar.png"
 
 INFO:
   - label: "Email"
-    value: "richard@example.com"
+    value: "saipremanvitha.k@savemymails.com"
     icon: "mail-outline"
   - label: "Phone"
-    value: "+1 (213) 352-2795"
+    value: "+1 (469) 588-0047"
     icon: "phone-portrait-outline"
-  - label: "Birthday"
-    value: "June 26, 1996"
-    icon: "calendar-outline"
   - label: "Location"
-    value: "Sacramento, California, USA"
+    value: "Richardson, Texas, USA"
     icon: "location-outline"
 
 SOCIAL:
