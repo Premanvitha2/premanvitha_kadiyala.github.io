@@ -30,7 +30,7 @@ SKILLS:
   display_percentage_values: true
   label: "My Skills"
   items:
-    - skill: - skill: "Language and Tools: Python, R, SQL, C, Spark, Vertex AI, Generative AI"
+    - skill: "Language and Tools: Python, R, SQL, C, Spark, Vertex AI, Generative AI"
     - skill: "IDEs: Visual Studio Code, Jupyter Notebook, PyCharm"
     - skill: "ML Algorithms: Linear Regression, Logistic Regression, Decision Trees, Random Forests, XGBoost, SVM, K-Means, Naive Bayes, PCA"
     - skill: "Deep Learning: CNN, RNN, LSTM, Transformers (BERT, GPT, T5, LLAMA), Hugging Face, Stable Diffusion, Generative AI (GenAI), OpenCV, LangChain"
