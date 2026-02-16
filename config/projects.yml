@@ -1,7 +1,7 @@
 HEADER:
    label: "Portfolio"
 
- PROJECTS:
+PROJECTS:
    - title: "Financial-Market-Forecasting"
      category: "Time Series Forecasting"
      image: "https://i.imgur.com/ANDVQ4o.png"
